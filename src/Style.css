@@ -1,0 +1,29 @@
+.list-group a{
+    transition: all .35s ease;
+    border-bottom-right-radius: 50px;
+}
+.list-group a:hover{
+    background-color: dodgerblue;
+    color: #fff;
+    cursor: pointer;
+}
+.log{
+    color: #ff0026
+}
+.brand{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap: 7px;
+    color: dodgerblue;
+}
+.sidebar{
+    height: 100%;
+}
+.link{
+    text-decoration: none;
+    color: #000;
+}
+.navbar{
+    padding-right: 3rem;
+}
